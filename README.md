@@ -9,18 +9,28 @@
 * CSS
 * GIT
 * JavaScript (Intermediate)
+* SQL / MySQL
+* Manual Testing
+* Regression Testing
+* Defect Tracking
+* Test Case Creation
+* Agile Methodologies
+* Jira / ServiceNow
 
 ## Projects
 
-* ManageLift: Forklift Maintenance App - A full-stack web application designed for forklift operators, technicians, and managers to perform and manage safety checks, maintenance, and repairs. [GitHub Repository](https://github.com/KevanPangburn/ManageLift)
+* **ManageLift** – Forklift Maintenance App: A full-stack web application for forklift operators, technicians, and managers to perform and manage safety checks, maintenance, and repairs.  
+  [GitHub Repository](https://github.com/KevanPangburn/ManageLift)
 
 ## Education
 
-* Bachelors in Software Development at Western Governors University (Graduation in May 2024)
+* Bachelor of Science in Software Development, Western Governors University (Graduation: November 2024)
 
 ## Experience
 
-* Software QA Support Specialist at MedSYS Software Solutions
+* iLab – Quality Assurance Analyst (Jul 2023 – Present)  
+* Interoperability Institute – Software Testing Intern (Mar 2023 – Jul 2023)  
+* MedSys Software Solutions – QA Support Specialist / Software Support Specialist (Jan 2022 – Sep 2022)
 
 ## Contact
 

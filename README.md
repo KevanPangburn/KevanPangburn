@@ -1,7 +1,5 @@
 # Kevan Pangburn
 
-* Software Development Student
-
 ## Skills
 
 * Java
@@ -24,7 +22,7 @@
 
 ## Education
 
-* Bachelor of Science in Software Development, Western Governors University (Graduation: November 2024)
+* Bachelor of Science in Software Development, Western Governors University (Graduated: November 2024)
 
 ## Experience
 

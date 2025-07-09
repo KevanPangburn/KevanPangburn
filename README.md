@@ -12,9 +12,7 @@
 
 ## Projects
 
-* Gym Tracker: Web-based Gym Tracking platform. https://github.com/KevanPangburn/GYM-Tracker
-
-* Banking App: Java-based desktop application that manually keeps track of banking transactions.
+* ManageLift: Forklift Maintenance App - A full-stack web application designed for forklift operators, technicians, and managers to perform and manage safety checks, maintenance, and repairs. [GitHub Repository](https://github.com/KevanPangburn/ManageLift)
 
 ## Education
 

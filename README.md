@@ -1,35 +1,42 @@
 # Kevan Pangburn
 
-## Skills
+**Full-Stack Software Developer | Java | Spring Boot | React**
 
-* Java
-* HTML
-* CSS
-* GIT
-* JavaScript (Intermediate)
-* SQL / MySQL
-* Manual Testing
-* Regression Testing
-* Defect Tracking
-* Test Case Creation
-* Agile Methodologies
-* Jira / ServiceNow
+I build and operate full-stack web applications and bring three years of enterprise quality assurance experience to development, debugging, testing, and release readiness. I hold a B.S. in Software Development from Western Governors University.
 
-## Projects
+## Featured Project: ManageLift
 
-* **ManageLift** – Forklift Maintenance App: A full-stack web application for forklift operators, technicians, and managers to perform and manage safety checks, maintenance, and repairs.  
-  [GitHub Repository](https://github.com/KevanPangburn/ManageLift)
+[Live application](https://www.managelift.com)
 
-## Education
+ManageLift is a multi-tenant forklift fleet-management SaaS application for customer account owners, fleet managers, technicians, and operators.
 
-* Bachelor of Science in Software Development, Western Governors University (Graduated: November 2024)
+### Technical highlights
+
+- Java 17, Spring Boot 3, Spring Security, REST APIs, and JPA/Hibernate
+- React 19, React Router, Ant Design, and React Testing Library
+- PostgreSQL with tenant-scoped authorization and account-level capabilities
+- Auth0 with OAuth2/JWT authentication
+- Stripe Checkout, subscriptions, webhooks, and per-lift quantity synchronization
+- Private S3-backed image attachments and email invitation workflows
+- Separate local, staging, and production environments
+- Protected staging-to-production releases and nearly 300 automated tests
+
+The commercial source repository is private. A public architecture and product showcase repository is available here: [ManageLift Showcase](https://github.com/KevanPangburn/ManageLift-Showcase).
+
+## Core Skills
+
+**Backend:** Java, Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, REST APIs, Maven  
+**Frontend:** JavaScript, React, React Router, Ant Design, HTML, CSS  
+**Data & Integrations:** PostgreSQL, SQL, Auth0, OAuth2/JWT, Stripe, AWS S3  
+**Testing & Delivery:** JUnit, Mockito, React Testing Library, Postman, Git/GitHub, Render, Cloudflare Pages, Jira, ServiceNow
 
 ## Experience
 
-* iLab – Quality Assurance Analyst (Jul 2023 – Present)  
-* Interoperability Institute – Software Testing Intern (Mar 2023 – Jul 2023)  
-* MedSys Software Solutions – QA Support Specialist / Software Support Specialist (Jan 2022 – Sep 2022)
+- **Quality Assurance Analyst, iLab / Indiana Public Retirement System** — July 2023 to present
+- **Software Testing Intern, Interoperability Institute** — March 2023 to July 2023
+- **Quality Assurance Support Specialist, MedSys Software Solutions** — January 2022 to September 2022
 
 ## Contact
 
-* Email: Kevan.Pangburn@gmail.com
+- [LinkedIn](https://linkedin.com/in/kevan-pangburn)
+- [Email](mailto:Kevan.Pangburn@gmail.com)
